@@ -1,0 +1,38 @@
+﻿  Graph.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\ACER\source\repos\Lab32zadanie1\GL\GLFW\include\GLFW\glfw3.h(98): message : см. предыдущее определение "APIENTRY"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(109,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(145,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(146,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(296,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(317,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(324,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(339,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(341,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(358,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(361,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(368,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(370,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(386,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(393,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(395,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(412,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(415,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(422,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(424,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(440,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(448,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(450,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(466,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(500,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(512,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(537,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(555,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(756,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ACER\source\repos\Lab32zadanie1\Graph.cpp(820,33): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\ACER\source\repos\Lab32zadanie1\GL\GLFW\include\GLFW\glfw3.h(98): message : см. предыдущее определение "APIENTRY"
+  Создание кода...
+  Lab32zadanie1.vcxproj -> C:\Users\ACER\source\repos\Lab32zadanie1\Debug\Lab32zadanie1.exe
