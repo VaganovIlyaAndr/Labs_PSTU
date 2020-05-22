@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Lab32zadanie2\Debug\Lab32zadanie2.vcxprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Lab32zadanie2\Debug\Lab32zadanie2.exe
+C:\Users\ACER\source\repos\Lab32zadanie2\Debug\Lab32zadanie2.pdb
+C:\Users\ACER\source\repos\Lab32zadanie2\Debug\Lab32zadanie2.MyForm.resources
+C:\Users\ACER\source\repos\Lab32zadanie2\Debug\Lab32zadanie2.vcxproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Lab33\Debug\Lab32zadanie2.vcxprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Lab33\Debug\Lab32zadanie2.MyForm.resources
+C:\Users\ACER\source\repos\Lab33\Debug\Lab32zadanie2.vcxproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Lab33\Debug\Lab32zadanie2.exe
+C:\Users\ACER\source\repos\Lab33\Debug\Lab32zadanie2.pdb
